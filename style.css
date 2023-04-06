@@ -1,0 +1,94 @@
+/* Estilos para el body */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #FFF;
+  }
+  
+  /* Estilos para el encabezado */
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #FFF;
+  }
+  
+  h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFF;
+  }
+  
+  /* Estilos para los botones */
+  .boton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para el formulario */
+  .formulario {
+    background-color: #333;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Estilos para los inputs y textareas */
+  input[type="text"],
+  textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    background-color: #444;
+    color: #FFF;
+  }
+  
+  /* Estilos para los selects */
+  select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #444;
+    font-size: 16px;
+    font-weight: normal;
+    color: #FFF;
+  }
+  
+  /* Estilos para los label */
+  label {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #FFF;
+  }
+  
+  /* Estilos para los div */
+  div {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para los hr */
+  hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  
